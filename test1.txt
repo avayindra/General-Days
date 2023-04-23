@@ -12,3 +12,5 @@ You're braver than you believe, and stronger than you seem, and smarter than you
 stiphannee be positive. 
 
 The greatest glory in living lies not in never falling, but in rising every time we fall. 
+
+logo alignment is centered.
